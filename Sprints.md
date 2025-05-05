@@ -1,6 +1,6 @@
 # SPRINT PLANNING
 
----
+--- 
 
 * 1 - Sprint 1 – Criar o backlog do produto
 * 2 - Sprint 2 – Criar o repositório no GitHub e organizar o projeto
