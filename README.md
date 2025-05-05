@@ -2,7 +2,7 @@
 
 **Automatize o suporte técnico com triagem por Inteligência Artificial**
 
----
+--- 
 
 ## 📌 Sobre o SmartCall
 
