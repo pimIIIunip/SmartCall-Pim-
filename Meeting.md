@@ -6,7 +6,7 @@
 - Todos participaram
 - Assunto: Lavantamento de requisitos
 
----
+--- 
 
 ## Dia 16/03/2025
 - Todos participaram
