@@ -1,6 +1,6 @@
 # Backlog do Sistema de Gestão de Chamados
 
-# Requisitos funcionais
+# Requisitos funcionais 
 
 ### 1.1 Gerenciamento de Chamados (Alta Prioridade)
 *Descrição:*
